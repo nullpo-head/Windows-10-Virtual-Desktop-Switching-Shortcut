@@ -15,12 +15,12 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\Visual Studio 2015\Projects\VirtualDesktopsCommands\VirtualDesktopsCommands\main.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\Visual Studio 2015\Projects\VirtualDesktopsCommands\VirtualDesktopsCommands\VirtualDesktops.h">
+    <ClInclude Include="VirtualDesktops.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
