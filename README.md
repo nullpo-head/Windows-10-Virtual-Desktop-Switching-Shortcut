@@ -1,4 +1,4 @@
-# Windows-10-Virtual-Desktop-Switching-Shortcut
+# Windows 10 Switch to Nth Virtual Desktop Shortcut Key
 
 ## What is this?
 
@@ -9,7 +9,7 @@ This is a small hotkey tool for mapping Ctrl + Win + number keys to  "Switch to 
 
 Just run VirtualDesktopSwitchHotkey.exe in VirtualDesktopSwitchHotkey folder.  
 Copy VirtualDesktopSwitchHotkey.exe into your startup if you like it.  
-This tool use AutoHotKey (http://www.autohotkey.com/) to map hotkeys. If you would like to change the key mapping, install it and rewrite an AutoHotKey script in VirtualDesktopSwitchHotkey\AutoHotKeyScriptsSample.  
+This tool uses AutoHotKey (http://www.autohotkey.com/) to map hotkeys. If you would like to change the key mapping, install it and rewrite an AutoHotKey script in VirtualDesktopSwitchHotkey\AutoHotKeyScriptsSample.  
 
 ## Implementation
 
