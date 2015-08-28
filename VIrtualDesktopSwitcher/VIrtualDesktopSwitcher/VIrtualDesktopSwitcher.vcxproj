@@ -19,8 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{2A566EE6-FC5F-41F1-B917-B0A2DD0BAF35}</ProjectGuid>
-    <RootNamespace>VIrtualDesktopSwitcher</RootNamespace>
+    <ProjectGuid>{4CE9E5F1-0932-43AA-A64A-B208158F5C40}</ProjectGuid>
+    <RootNamespace>VirtualDesktopSwitcher</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
