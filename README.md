@@ -1,5 +1,9 @@
 # Windows 10 Switch to Nth Virtual Desktop Shortcut Key
 
+## DEPRECATED
+
+This tool is now deplicated and not working. As of 2019/12/14, I'm using [Win10 Virtual Desktop Enhancer](https://github.com/sdias/win-10-virtual-desktop-enhancer) instead. Although Win10 VDE's repository is archived, it works as long as you replace its `virtual-desktop-accessor.dll` with the latest one, which you can get from [the repository of VirtualDesktopAccessor](https://github.com/Ciantic/VirtualDesktopAccessor). 
+
 ## What is this?
 
 This is a small hotkey tool for mapping Ctrl + Win + number keys to  "Switch to Nth Virtual Desktop", which is missing in the Windows 10 virtual desktop shortcuts.  
